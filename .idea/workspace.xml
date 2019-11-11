@@ -14,9 +14,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1SqPk7g2MSrExTFSehSQxkKgvOo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
@@ -60,7 +62,7 @@
       <workItem from="1572288296535" duration="616000" />
       <workItem from="1572459142114" duration="1536000" />
       <workItem from="1572617156354" duration="662000" />
-      <workItem from="1573479963766" duration="713000" />
+      <workItem from="1573479963766" duration="1003000" />
     </task>
     <servers />
   </component>
